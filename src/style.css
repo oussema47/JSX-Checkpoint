@@ -1,0 +1,14 @@
+img {
+  width: 100%;
+}
+
+.title {
+  font-size: 100px;
+  color: red;
+  text-align: center;
+}
+.vid {
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
